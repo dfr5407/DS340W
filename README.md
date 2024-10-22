@@ -1,4 +1,4 @@
-# StockEmotions Analysis: Sentiment and Market Impact  
+# Stock Price Prediction Using (Social) Media Sentiments  
 This project is part of DS 340W and explores the relationship between financial sentiment and market movements, guided by insights from three key papers: **StockEmotions**, **CEO Post Impact**, and **MAN-SF**.
 
 ## Parent Papers
