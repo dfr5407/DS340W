@@ -11,10 +11,11 @@ This project is part of DS 340W and explores the relationship between financial 
 3. **MAN-SF**: Proposes methods to enhance financial sentiment analysis in news articles using advanced NLP techniques.  
    [Read Paper](https://aclanthology.org/2020.emnlp-main.676.pdf)
 
-## Datasets
+## Potential Implementation Datasets
 We utilize financial news and analytics data to implement models and test hypotheses derived from the parent papers:
 - **[Daily Financial News for 6000+ Stocks](https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests/data?select=raw_analyst_ratings.csv)** (Kaggle)
 - **[FNSPID Financial News Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset)** (GitHub)
+- **[Labeled Stock News Headlines](https://www.kaggle.com/datasets/johoetter/labeled-stock-news-headlines)** (Kaggle)
 
 ## Project Overview
 This repository includes:
