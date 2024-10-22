@@ -16,6 +16,7 @@ We utilize financial news and analytics data to implement models and test hypoth
 - **[Daily Financial News for 6000+ Stocks](https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests/data?select=raw_analyst_ratings.csv)** (Kaggle)
 - **[FNSPID Financial News Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset)** (GitHub)
 - **[Labeled Stock News Headlines](https://www.kaggle.com/datasets/johoetter/labeled-stock-news-headlines)** (Kaggle)
+- **[Twitter Financial News Sentiment](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment)** (Hugging Face)
 
 ## Project Overview
 This repository includes:
