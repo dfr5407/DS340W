@@ -17,6 +17,7 @@ We utilize financial news and analytics data to implement models and test hypoth
 - **[FNSPID Financial News Dataset](https://github.com/Zdong104/FNSPID_Financial_News_Dataset)** (GitHub)
 - **[Labeled Stock News Headlines](https://www.kaggle.com/datasets/johoetter/labeled-stock-news-headlines)** (Kaggle)
 - **[Twitter Financial News Sentiment](https://huggingface.co/datasets/zeroshot/twitter-financial-news-sentiment)** (Hugging Face)
+- **[Surge AI Stock Sentiment](https://github.com/surge-ai/stock-sentiment)** (GitHub)
 
 ## Project Overview
 This repository includes:
