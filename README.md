@@ -1,8 +1,8 @@
 # DS340W
 
-StockEmotions - First Parent Paper
-CEO Post Impact - Second Parent Paper
-MAN-SF - Third Parent Paper
+StockEmotions - First Parent Paper   
+CEO Post Impact - Second Parent Paper   
+MAN-SF - Third Parent Paper   
 
 Link to original parent papers:   
 [StockEmotions](https://arxiv.org/pdf/2301.09279v2)   
